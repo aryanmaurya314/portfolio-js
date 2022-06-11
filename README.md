@@ -17,7 +17,7 @@
 
 > How to apply dark mode on a website. 
 
-### Technology that are used :
+## Technology that are used :
 > HTML for structuring the document.
 
 > CSS for styling the document.

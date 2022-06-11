@@ -1,6 +1,6 @@
-# This website is hosted on github pages: https://aryanmaurya314.github.io/portfolio-js/
+# This website is hosted on github pages : https://aryanmaurya314.github.io/portfolio-js/
 
-## I Learned from this project:
+## I Learned from this project :
 > How to use HTML tags effectively.
 
 > How to use div element to manipulate css.
@@ -17,7 +17,7 @@
 
 > How to apply dark mode on a website. 
 
-### Technology that are used:
+### Technology that are used :
 > HTML for structuring the document.
 
 > CSS for styling the document.
